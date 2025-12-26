@@ -1,5 +1,6 @@
 | Name| Github-ID  | College name |  
 
+
 |:-------------|:------------|:----------------|
 | Pradip Maity | @codeboy-pro | Haldia Institute Of Technology |
 
@@ -7,12 +8,14 @@
 
 |Suyash|Skr-suyash|IIIT Allahabad|
 
-|Arnav Singh | arnavsingh010 |IIIT-A | IIT2025257|
+| Mannat Jain | mannatjain11465-netizen | IIIT Allahabad|
+
+|Arnav Singh | arnavsingh010 |IIIT-A |
 
 |Vishva Modh|ViMo018|IIIT Allahabad|
-
 <!-- ADD ABOVE THIS-->
 <!--example |Korvac | Betty |Reyansh College| IIT2024067|>
+
 
 
 
