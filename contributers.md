@@ -11,6 +11,7 @@
 
 |Vishva Modh|ViMo018|IIIT Allahabad|
 
+|Kunwar Gaba | kunwargaba10 |IIIT Allahabad| IIB2025037|
 <!-- ADD ABOVE THIS-->
 <!--example |Korvac | Betty |Reyansh College| IIT2024067|>
 
