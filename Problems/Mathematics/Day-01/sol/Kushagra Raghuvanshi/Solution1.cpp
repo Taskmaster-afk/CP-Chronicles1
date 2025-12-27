@@ -10,11 +10,11 @@ int main(){
         cin>>a>>b>>c;
         int n=2*abs(a-b);
         if(a>n||b>n||c>n){
-            cout<<-1<<'\n';
+            cout<<-1<<endl;
             continue;
         }
         int s=c+n/2;
         if(s>n) s-=n;
-        cout<<s<<'\n';
+        cout<<s<<endl;
     }
 }
